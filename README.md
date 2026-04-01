@@ -1,5 +1,3 @@
-# README.md
-
 ## Witold Nejman | AI/ML Engineer
 
 I strive to build fully autonomous AI systems.
@@ -23,6 +21,6 @@ Python · Ollama · Qwen LLMs · XGBoost · WSL2 · Azure AI (AI-900)
 
 ### Contact
 
-- 📧 [witoldNej@gmail.com(Email)]
-- 💼 [https://www.linkedin.com/in/witold-nejman-29513017a/()LinkedIn]
-- 📄 [https://github.com/blackDej/blackDej/raw/master/Witold_Nejman_CV.pdf](CV)]
+- 📧 [witoldNej@gmail.com](mailto:witoldNej@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/witold-nejman-29513017a/)
+- 📄 [Download CV](https://github.com/blackDej/blackDej/raw/master/Witold_Nejman_CV.pdf)
