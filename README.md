@@ -1,16 +1,28 @@
-## Hi there 👋
+# README.md
 
-<!--
-**blackDej/blackDej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Witold Nejman | AI/ML Engineer
 
-Here are some ideas to get you started:
+I strive to build autonomous AI systems — from narrative-driven trading engines to self-governing ML pipelines.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Most of my work is private. If you'd like read access to a specific repository, reach out with a brief message introducing yourself and what you're looking for.
+
+**I don't respond to automated outreach.**
+
+---
+
+### What I'm building
+
+- **Autonomous trading systems** — multi-agent LLM pipelines for futures trading
+- **AI/ML systems** — signal detection, probabilistic decision-making, self-improving feedback loops
+
+### Tech
+
+Python · Ollama · Qwen LLMs · XGBoost · WSL2 · Azure AI (AI-900 ✅)
+
+---
+
+### Contact
+
+- 📧 [witoldNej@gmail.com]
+- 💼 [[linkedin.com/in/yourprofile](https://www.linkedin.com/in/witold-nejman-29513017a/)]
+- 📄 [CV link]
