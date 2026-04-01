@@ -2,7 +2,7 @@
 
 ## Witold Nejman | AI/ML Engineer
 
-I strive to build autonomous AI systems — from narrative-driven trading engines to self-governing ML pipelines.
+I strive to build fully autonomous AI systems.
 
 Most of my work is private. If you'd like read access to a specific repository, reach out with a brief message introducing yourself and what you're looking for.
 
@@ -17,12 +17,12 @@ Most of my work is private. If you'd like read access to a specific repository, 
 
 ### Tech
 
-Python · Ollama · Qwen LLMs · XGBoost · WSL2 · Azure AI (AI-900 ✅)
+Python · Ollama · Qwen LLMs · XGBoost · WSL2 · Azure AI (AI-900)
 
 ---
 
 ### Contact
 
 - 📧 [witoldNej@gmail.com]
-- 💼 [[linkedin.com/in/yourprofile](https://www.linkedin.com/in/witold-nejman-29513017a/)]
-- 📄 [CV link]
+- 💼 [https://www.linkedin.com/in/witold-nejman-29513017a/]
+- 📄 []
