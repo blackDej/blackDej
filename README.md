@@ -25,4 +25,4 @@ Python · Ollama · Qwen LLMs · XGBoost · WSL2 · Azure AI (AI-900)
 
 - 📧 [witoldNej@gmail.com]
 - 💼 [https://www.linkedin.com/in/witold-nejman-29513017a/]
-- 📄 []
+- 📄 [https://github.com/blackDej/blackDej/raw/master/Witold_Nejman_CV.pdf]
